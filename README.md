@@ -1,2 +1,2 @@
 # linux_kernel_edit
-Linux Schedule Function Edit
+Realtime monitoring of the Linux scheduler through the proc file
